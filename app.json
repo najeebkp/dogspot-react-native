@@ -1,14 +1,15 @@
 {
   "expo": {
-    "name": "firstApp",
-    "slug": "firstApp",
+    "name": "DogSpot",
+    "slug": "dogspot",
+    "description":"This app can be used to post details about the stray dogs with their photos and behaviour from any location, so that people can walk fearlessly.",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "updates": {
